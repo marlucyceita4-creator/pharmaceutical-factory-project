@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="1HZACTWHnPPl5siT7e_f">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-14" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.496;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" target="Vs-BF6MuBlzXff8hIqm3-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-32" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-02 - Wet granules" vertex="1">
+          <mxGeometry relative="1" x="0.114" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-1" parent="1" style="shape=mxgraph.pid.vessels.jacketed_mixing_vessel;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;M-101&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp;Wet Granulator&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="174" width="100" x="750" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-25" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vs-BF6MuBlzXff8hIqm3-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="750" />
+              <mxPoint x="800" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-33" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-03 - Dry granules" vertex="1">
+          <mxGeometry relative="1" x="0.084" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-41" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" target="Vs-BF6MuBlzXff8hIqm3-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-42" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="U-01 - Hot air in" vertex="1">
+          <mxGeometry relative="1" x="0.1815" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-44" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" target="Vs-BF6MuBlzXff8hIqm3-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-46" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="U-02&amp;nbsp; - Water vapour out" vertex="1">
+          <mxGeometry relative="1" x="0.1513" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-4" parent="1" style="shape=mxgraph.pid.driers.drier_(fluidized_bed);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b&gt;D-101&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Fluidized bed dryer&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="750" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-38" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vs-BF6MuBlzXff8hIqm3-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="1840" />
+              <mxPoint x="805" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-39" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-08 - Coated tablets" vertex="1">
+          <mxGeometry relative="1" x="0.158" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-7" parent="1" style="shape=mxgraph.pid.vessels.barrel,_drum;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp;C-101&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; Coating dru&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;m&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="100" width="80" x="760" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-13" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vs-BF6MuBlzXff8hIqm3-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="140" />
+              <mxPoint x="800" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-30" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-01 - API +&amp;nbsp; excipients" vertex="1">
+          <mxGeometry relative="1" x="0.3606" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-8" parent="1" style="shape=mxgraph.pid.vessels.container,_tank,_cistern;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b&gt;H-101&lt;/b&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Raw materials storage&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="750" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-18" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vs-BF6MuBlzXff8hIqm3-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-36" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-07 - Tablets" vertex="1">
+          <mxGeometry relative="1" x="0.1081" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-9" parent="1" style="shape=mxgraph.pid.shaping_machines.press_(roller);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b&gt;P-101&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Rotary tablet press&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="740" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-17" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="797.48" y="1280" />
+            </Array>
+            <mxPoint x="792.4799999999998" y="1280" as="sourcePoint" />
+            <mxPoint x="798" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-35" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-06 - Lubricated blend" vertex="1">
+          <mxGeometry relative="1" x="0.123" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-10" parent="1" style="shape=mxgraph.pid.mixers.kneader;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b&gt;M-102&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Final blender&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="710" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-16" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vs-BF6MuBlzXff8hIqm3-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1110" />
+              <mxPoint x="800" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-34" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-04 - Sized granules" vertex="1">
+          <mxGeometry relative="1" x="-0.1022" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-26" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;curved=0;dashed=1;entryX=0.075;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vs-BF6MuBlzXff8hIqm3-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="960" />
+              <mxPoint x="420" y="320" />
+            </Array>
+            <mxPoint x="750" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-47" connectable="0" parent="Vs-BF6MuBlzXff8hIqm3-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="S-05 - Fines recycle" vertex="1">
+          <mxGeometry relative="1" x="0.0392" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-11" parent="1" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.separators.separator,_sifter2;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;S-101&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Vibrating Sifter&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="750" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-12" edge="1" parent="1" source="Vs-BF6MuBlzXff8hIqm3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="Vs-BF6MuBlzXff8hIqm3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;pointerEvents=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="745" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-40" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;pointerEvents=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="515" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs-BF6MuBlzXff8hIqm3-43" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;pointerEvents=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="1070" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="X_TL-Kw0aBja5LvecwQH-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=12;" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;strong data-start=&quot;0&quot; data-end=&quot;12&quot;&gt;Project:&lt;/strong&gt; Tablet Manufacturing Plant — Concept&lt;br data-start=&quot;49&quot; data-end=&quot;52&quot; data-is-only-node=&quot;&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;52&quot; data-end=&quot;63&quot;&gt;Author:&lt;/strong&gt; Marlucy Ceita&lt;br data-start=&quot;77&quot; data-end=&quot;80&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;80&quot; data-end=&quot;89&quot;&gt;Date:&lt;/strong&gt; May 2026&lt;br data-start=&quot;98&quot; data-end=&quot;101&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;101&quot; data-end=&quot;113&quot;&gt;Version:&lt;/strong&gt; PFD-001 Rev.0&lt;br data-start=&quot;127&quot; data-end=&quot;130&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;130&quot; data-end=&quot;143&quot;&gt;Standard:&lt;/strong&gt; ISO 10628-1&lt;br data-start=&quot;155&quot; data-end=&quot;158&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;158&quot; data-end=&quot;171&quot;&gt;Software:&lt;/strong&gt; Draw.io (diagrams.net)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="290" x="1330" y="2150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
